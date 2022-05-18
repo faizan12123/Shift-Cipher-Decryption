@@ -18,4 +18,4 @@ This list includes white space and special characters `‘!’, ‘?’, ‘,’
 # Approach
 
 
-For this shift cipher project, I will be decrypting the encrypted message using a brute-force attack, created in Python
+For this shift cipher project, I will be decrypting the encrypted message using a brute-force attack, created in Python.
